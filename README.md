@@ -17,16 +17,10 @@ We encourage contributions to this Flowchart Repository! If you have created a f
 To contribute:
 1. Fork this repository to your GitHub account.
 2. Create a new branch for your flowchart: `git checkout -b add-my-flowchart`.
-3. Add your flowchart image to the [`flowcharts`](/flowcharts) directory.
+3. Add your flowchart image to the [`Flowchart`](/flowcharts) directory.
 4. Update this README.md file to include a brief description of your flowchart.
 5. Commit your changes and push the branch to your forked repository.
 6. Create a pull request to merge your changes into the main repository.
-
-## Example Flowchart: Decision-Making Process
-
-![Decision-Making Process](/flowcharts/decision-making-process.png)
-
-This flowchart illustrates a general decision-making process, guiding you through the steps to make well-informed choices.
 
 ## About
 
